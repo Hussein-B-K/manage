@@ -881,6 +881,10 @@ video {
   font-weight: 700;
 }
 
+.leading-loose {
+  line-height: 2;
+}
+
 .leading-tight {
   line-height: 1.25;
 }
